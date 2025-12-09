@@ -17,7 +17,7 @@ Madan Shrestha– About us Page
 
 Niraj Gurung – Home Page
 
-Dikshant Timsina– Product Page
+Dikshant Timsina– Product Page<a href="https://github.com/dikshant-tx">(Git profile)</a>
 
 Rohit Khadka – Blog Page
 
